@@ -15,7 +15,7 @@ the 'ip' variable is the ip to get info on and it can be ipv4 or ipv6
 
 import base64, codecs
 
-PRINT_CREDITS = False
+PRINT_CREDITS = True
 
 ip = input('What is the IP address? ')
 
