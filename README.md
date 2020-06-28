@@ -18,6 +18,30 @@ The packages base64 and json are already included in python3, to install the oth
 
     python3 -m pip install requests beautifulsoup4
 
+# Sample Output
+Using the IP: 
+
+    198.54.117.250
+
+JSON Output:
+
+    {
+     "IP": "198.54.117.250",
+     "Decimal": "3325457914",
+     "Hostname": "namecheap.com",
+     "ASN": "22612",
+     "ISP": "Namecheap",
+     "Organization": "Namecheap",
+     "Services": "None detected",
+     "Type": "Corporate",
+     "Assignment": "Likely Static IP",
+     "Blacklist": "",
+     "Continent": "North America",
+     "Country": "United States",
+     "Latitude": "37.751",
+     "Longitude": "-97.822"
+    }
+
 # Additional Info
 
 **The database connection code has been encrypted to prevent unauthorized connections**
