@@ -3,6 +3,9 @@
 IP-Lookup is a Database and Python Script to Programmatically look up details of an IP address.
 
 # Usage
+
+![enter image description here](https://i.imgur.com/yCzlwxO.gif)
+
 To use this script, you need python3 and the packages as follows:
 
  - json
